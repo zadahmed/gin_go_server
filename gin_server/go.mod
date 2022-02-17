@@ -1,4 +1,4 @@
-module github.com/zadahmed/gin_go_server.git
+module zadahmed/gin_go_server
 
 go 1.17
 

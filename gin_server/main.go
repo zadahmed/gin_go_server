@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/zadahmed/gin_go_server/controller"
+	"zadahmed/gin_go_server/controller"
 )
 
 func main() {
